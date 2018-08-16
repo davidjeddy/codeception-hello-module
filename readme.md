@@ -1,6 +1,6 @@
 # codeception-hello-module
 
-Module to interface with a FreeRADIUS server
+Boilerplate CodeCeption Module 
 
 # Badges
 [![Latest Stable Version](https://poser.pugx.org/davidjeddy/codeception-hello-module/v/stable?format=flat-square)](https://packagist.org/packages/davidjeddy/codeception-hello-module)
